@@ -3,7 +3,8 @@ import pandas as pd
 import numpy as np
 import requests
 import time
-import plotly.graph_objs as go
+# import plotly.graph_objs as go
+import plotly.graph_objects as go
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
